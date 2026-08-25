@@ -1,4 +1,4 @@
-# Agent-internal files (never push these)
+# internal files
 RESUME.md
 .agents/
 
