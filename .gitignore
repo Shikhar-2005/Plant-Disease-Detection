@@ -1,3 +1,7 @@
+# Agent-internal files (never push these)
+RESUME.md
+.agents/
+
 # Python
 __pycache__/
 *.py[cod]
