@@ -1,0 +1,230 @@
+{
+  "Apple___Apple_scab": {
+    "display": "Apple — Apple Scab",
+    "description": "Apple scab is a fungal disease caused by Venturia inaequalis. It produces olive-green to brown lesions on leaves and fruit, causing premature defoliation and reduced fruit quality.",
+    "treatment": "Apply fungicides (captan, mancozeb) at bud break. Remove and destroy fallen leaves. Choose scab-resistant apple varieties for new plantings.",
+    "severity": "medium"
+  },
+  "Apple___Black_rot": {
+    "display": "Apple — Black Rot",
+    "description": "Black rot is caused by the fungus Botryosphaeria obtusa. It affects leaves, fruit, and bark, causing circular brown lesions on leaves and mummified fruit.",
+    "treatment": "Prune dead or infected wood. Apply copper-based fungicides. Remove mummified fruit from the tree. Ensure good air circulation.",
+    "severity": "high"
+  },
+  "Apple___Cedar_apple_rust": {
+    "display": "Apple — Cedar Apple Rust",
+    "description": "Cedar apple rust is caused by Gymnosporangium juniperi-virginianae. It requires both apple and juniper/cedar trees to complete its lifecycle, producing bright orange lesions on leaves.",
+    "treatment": "Apply fungicides (myclobutanil, propiconazole) in spring. Remove nearby juniper trees if possible. Plant rust-resistant apple varieties.",
+    "severity": "medium"
+  },
+  "Apple___healthy": {
+    "display": "Apple — Healthy",
+    "description": "The apple leaf appears healthy with no visible signs of disease, pest damage, or nutrient deficiency.",
+    "treatment": "No treatment required. Continue regular monitoring, proper watering, and balanced fertilisation.",
+    "severity": "none"
+  },
+  "Blueberry___healthy": {
+    "display": "Blueberry — Healthy",
+    "description": "The blueberry leaf appears healthy with no visible signs of disease or stress.",
+    "treatment": "No treatment required. Maintain acidic soil pH (4.5–5.5) and regular irrigation.",
+    "severity": "none"
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "display": "Cherry — Powdery Mildew",
+    "description": "Powdery mildew on cherry is caused by Podosphaera clandestina. It appears as a white powdery coating on leaves, shoots, and fruit, stunting growth and reducing yield.",
+    "treatment": "Apply sulfur-based or potassium bicarbonate fungicides. Improve air circulation by pruning. Avoid overhead irrigation. Remove and destroy infected tissue.",
+    "severity": "medium"
+  },
+  "Cherry_(including_sour)___healthy": {
+    "display": "Cherry — Healthy",
+    "description": "The cherry leaf appears healthy with no visible signs of disease or stress.",
+    "treatment": "No treatment required. Maintain good orchard hygiene and balanced nutrition.",
+    "severity": "none"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "display": "Corn — Gray Leaf Spot",
+    "description": "Gray leaf spot (Cercospora zeae-maydis) produces rectangular, tan-to-gray lesions limited by leaf veins. It is one of the most economically damaging corn diseases.",
+    "treatment": "Plant resistant hybrids. Apply strobilurin or triazole fungicides at VT/R1 growth stage. Practice crop rotation and tillage to reduce residue.",
+    "severity": "high"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "display": "Corn — Common Rust",
+    "description": "Common rust is caused by Puccinia sorghi. It produces cinnamon-brown pustules on both leaf surfaces and can significantly reduce yield in susceptible hybrids.",
+    "treatment": "Plant resistant hybrids. Apply fungicides (triazoles, strobilurins) if disease develops before tasseling. Monitor fields regularly during cool, humid weather.",
+    "severity": "medium"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "display": "Corn — Northern Leaf Blight",
+    "description": "Northern leaf blight (Exserohilum turcicum) causes long, cigar-shaped grayish-green lesions on corn leaves. Severe infections can cause significant yield loss.",
+    "treatment": "Plant resistant hybrids. Apply fungicides (azoxystrobin, propiconazole). Practice crop rotation and bury infected crop residue.",
+    "severity": "high"
+  },
+  "Corn_(maize)___healthy": {
+    "display": "Corn — Healthy",
+    "description": "The corn leaf appears healthy with no visible signs of disease or nutrient deficiency.",
+    "treatment": "No treatment required. Ensure adequate nitrogen, water, and weed management.",
+    "severity": "none"
+  },
+  "Grape___Black_rot": {
+    "display": "Grape — Black Rot",
+    "description": "Black rot (Guignardia bidwellii) is one of the most destructive grape diseases, causing circular brown lesions on leaves and shriveled, mummified berries.",
+    "treatment": "Apply fungicides (mancozeb, myclobutanil) from bud break through bloom. Remove mummified berries and infected canes. Ensure good canopy management for air flow.",
+    "severity": "high"
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "display": "Grape — Esca (Black Measles)",
+    "description": "Esca is a complex fungal disease causing tiger-stripe patterns on leaves, stunted growth, and internal wood decay. It is a chronic, progressive disease with no cure.",
+    "treatment": "No effective chemical cure exists. Remove and destroy infected vines. Protect pruning wounds with fungicide pastes. Practice delayed pruning to reduce infection.",
+    "severity": "high"
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "display": "Grape — Leaf Blight",
+    "description": "Isariopsis leaf spot (Pseudocercospora vitis) produces dark brown lesions with yellow halos on older leaves, leading to premature defoliation and reduced photosynthesis.",
+    "treatment": "Apply copper-based or mancozeb fungicides. Improve air circulation through canopy management. Avoid overhead irrigation.",
+    "severity": "medium"
+  },
+  "Grape___healthy": {
+    "display": "Grape — Healthy",
+    "description": "The grape leaf appears healthy with no visible signs of disease, pest damage, or nutrient stress.",
+    "treatment": "No treatment required. Maintain proper vine training, irrigation, and balanced fertilisation.",
+    "severity": "none"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "display": "Orange — Huanglongbing (Citrus Greening)",
+    "description": "Huanglongbing (HLB), or citrus greening, is caused by the bacterium Candidatus Liberibacter asiaticus and spread by the Asian citrus psyllid. It is the most devastating citrus disease worldwide, causing asymmetric yellowing (blotchy mottle), small misshapen fruit, and eventual tree death.",
+    "treatment": "No cure exists. Remove and destroy infected trees immediately to prevent spread. Control psyllid populations with insecticides. Plant certified disease-free nursery stock.",
+    "severity": "critical"
+  },
+  "Peach___Bacterial_spot": {
+    "display": "Peach — Bacterial Spot",
+    "description": "Bacterial spot (Xanthomonas arboricola pv. pruni) causes water-soaked lesions that turn angular and dark on leaves, and sunken pits on fruit, reducing marketability.",
+    "treatment": "Apply copper bactericides starting at bud swell. Plant resistant varieties. Avoid wounding trees. Ensure good air circulation through pruning.",
+    "severity": "medium"
+  },
+  "Peach___healthy": {
+    "display": "Peach — Healthy",
+    "description": "The peach leaf appears healthy with no visible signs of disease or stress.",
+    "treatment": "No treatment required. Maintain proper pruning, irrigation, and nutrient management.",
+    "severity": "none"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "display": "Bell Pepper — Bacterial Spot",
+    "description": "Bacterial spot (Xanthomonas euvesicatoria) causes water-soaked spots that turn brown and scabby on pepper leaves and fruit, reducing yield and quality.",
+    "treatment": "Apply copper-based bactericides preventively. Use certified disease-free seeds. Avoid working in wet fields. Practice crop rotation.",
+    "severity": "medium"
+  },
+  "Pepper,_bell___healthy": {
+    "display": "Bell Pepper — Healthy",
+    "description": "The bell pepper leaf appears healthy with no visible signs of disease or nutrient deficiency.",
+    "treatment": "No treatment required. Ensure adequate calcium and consistent moisture to prevent blossom end rot.",
+    "severity": "none"
+  },
+  "Potato___Early_blight": {
+    "display": "Potato — Early Blight",
+    "description": "Early blight (Alternaria solani) causes dark brown lesions with concentric rings (target-board pattern) on older leaves, leading to defoliation and reduced tuber yield.",
+    "treatment": "Apply fungicides (chlorothalonil, mancozeb) at first sign of disease. Ensure adequate nitrogen nutrition. Practice crop rotation. Remove infected plant debris.",
+    "severity": "medium"
+  },
+  "Potato___Late_blight": {
+    "display": "Potato — Late Blight",
+    "description": "Late blight (Phytophthora infestans) caused the Great Irish Famine. It produces water-soaked lesions that rapidly turn brown and destroy entire fields under cool, moist conditions.",
+    "treatment": "Apply systemic fungicides (metalaxyl, cymoxanil) immediately. Destroy infected plants and tubers. Plant resistant varieties. Avoid overhead irrigation.",
+    "severity": "critical"
+  },
+  "Potato___healthy": {
+    "display": "Potato — Healthy",
+    "description": "The potato leaf appears healthy with no visible signs of disease or stress.",
+    "treatment": "No treatment required. Monitor regularly for early blight and late blight — they spread rapidly.",
+    "severity": "none"
+  },
+  "Raspberry___healthy": {
+    "display": "Raspberry — Healthy",
+    "description": "The raspberry leaf appears healthy with no visible signs of disease or pest damage.",
+    "treatment": "No treatment required. Maintain good cane management and drainage.",
+    "severity": "none"
+  },
+  "Soybean___healthy": {
+    "display": "Soybean — Healthy",
+    "description": "The soybean leaf appears healthy with no visible signs of disease, pest damage, or nutrient deficiency.",
+    "treatment": "No treatment required. Monitor for sudden death syndrome and Asian soybean rust during humid conditions.",
+    "severity": "none"
+  },
+  "Squash___Powdery_mildew": {
+    "display": "Squash — Powdery Mildew",
+    "description": "Powdery mildew on squash (caused by Podosphaera xanthii or Erysiphe cichoracearum) forms white powdery patches on leaf surfaces, reducing photosynthesis and fruit quality.",
+    "treatment": "Apply potassium bicarbonate, neem oil, or sulfur-based fungicides. Improve air circulation. Avoid overhead watering. Remove heavily infected leaves.",
+    "severity": "medium"
+  },
+  "Strawberry___Leaf_scorch": {
+    "display": "Strawberry — Leaf Scorch",
+    "description": "Leaf scorch (Diplocarpon earlianum) causes small, irregular purple spots that enlarge and turn reddish-brown, giving leaves a scorched appearance and reducing plant vigour.",
+    "treatment": "Apply fungicides (captan, myclobutanil). Remove infected leaves after harvest. Plant resistant varieties. Ensure good air circulation and avoid wetting foliage.",
+    "severity": "medium"
+  },
+  "Strawberry___healthy": {
+    "display": "Strawberry — Healthy",
+    "description": "The strawberry leaf appears healthy with no visible signs of disease or stress.",
+    "treatment": "No treatment required. Monitor for leaf scorch and gray mold during humid conditions.",
+    "severity": "none"
+  },
+  "Tomato___Bacterial_spot": {
+    "display": "Tomato — Bacterial Spot",
+    "description": "Bacterial spot (Xanthomonas vesicatoria) causes small, water-soaked spots that turn dark brown with yellow halos on leaves and raised, scabby spots on fruit.",
+    "treatment": "Apply copper-based bactericides. Use disease-free transplants. Avoid working in wet fields. Practice crop rotation with non-solanaceous crops.",
+    "severity": "medium"
+  },
+  "Tomato___Early_blight": {
+    "display": "Tomato — Early Blight",
+    "description": "Early blight (Alternaria solani) causes dark concentric ring lesions (target pattern) on older leaves, leading to defoliation from the bottom up and reduced yield.",
+    "treatment": "Apply fungicides (chlorothalonil, copper). Remove lower infected leaves. Mulch to prevent soil splash. Ensure adequate nutrition — stressed plants are more susceptible.",
+    "severity": "medium"
+  },
+  "Tomato___Late_blight": {
+    "display": "Tomato — Late Blight",
+    "description": "Late blight (Phytophthora infestans) is devastating — large, irregular, greasy water-soaked lesions rapidly destroy foliage and fruit. The white mold is visible on leaf undersides.",
+    "treatment": "Apply systemic fungicides (metalaxyl, cymoxanil) immediately. Remove and destroy infected plants. Avoid overhead irrigation. Plant resistant varieties.",
+    "severity": "critical"
+  },
+  "Tomato___Leaf_Mold": {
+    "display": "Tomato — Leaf Mold",
+    "description": "Leaf mold (Passalora fulva) causes pale green-yellow patches on upper leaf surfaces and olive-green to brown velvety mold on undersides, thriving in humid greenhouse conditions.",
+    "treatment": "Reduce humidity by improving ventilation. Apply fungicides (chlorothalonil, mancozeb). Remove and destroy infected leaves. Plant resistant varieties.",
+    "severity": "medium"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "display": "Tomato — Septoria Leaf Spot",
+    "description": "Septoria leaf spot (Septoria lycopersici) produces small circular spots with dark borders and grey centres on lower leaves, progressing upward and causing severe defoliation.",
+    "treatment": "Apply fungicides (chlorothalonil, copper). Remove infected lower leaves. Avoid wetting foliage. Rotate crops and use mulch to prevent soil splash.",
+    "severity": "medium"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "display": "Tomato — Spider Mites",
+    "description": "Two-spotted spider mites (Tetranychus urticae) cause stippled, bronzed leaves with fine webbing on undersides. Severe infestations defoliate plants rapidly in hot, dry conditions.",
+    "treatment": "Apply miticides (abamectin, bifenazate) or insecticidal soap. Increase humidity. Introduce predatory mites (Phytoseiulus persimilis) as biological control.",
+    "severity": "high"
+  },
+  "Tomato___Target_Spot": {
+    "display": "Tomato — Target Spot",
+    "description": "Target spot (Corynespora cassiicola) causes circular brown lesions with concentric rings on leaves, stems, and fruit, leading to defoliation and fruit blemishes.",
+    "treatment": "Apply fungicides (azoxystrobin, difenoconazole). Improve air circulation. Remove infected plant material. Rotate crops.",
+    "severity": "medium"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "display": "Tomato — Yellow Leaf Curl Virus",
+    "description": "Tomato Yellow Leaf Curl Virus (TYLCV) is transmitted by the silverleaf whitefly (Bemisia tabaci). It causes upward leaf curling, yellowing, stunting, and severe yield loss with no cure.",
+    "treatment": "No cure once infected. Control whitefly populations with insecticides (imidacloprid) or reflective mulches. Remove and destroy infected plants. Plant resistant varieties.",
+    "severity": "critical"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "display": "Tomato — Mosaic Virus",
+    "description": "Tomato mosaic virus (ToMV) causes mottled light-dark green mosaic patterns on leaves, leaf distortion, and reduced fruit set. It spreads through contact and contaminated tools.",
+    "treatment": "No cure once infected. Disinfect tools with bleach solution. Wash hands frequently. Remove and destroy infected plants. Use resistant varieties and certified virus-free seed.",
+    "severity": "high"
+  },
+  "Tomato___healthy": {
+    "display": "Tomato — Healthy",
+    "description": "The tomato leaf appears healthy with no visible signs of disease, pest damage, or nutrient stress.",
+    "treatment": "No treatment required. Monitor regularly — tomatoes are highly susceptible to multiple diseases.",
+    "severity": "none"
+  }
+}

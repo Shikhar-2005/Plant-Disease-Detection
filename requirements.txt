@@ -1,0 +1,28 @@
+# Core ML
+torch>=2.6.0
+torchvision>=0.21.0
+numpy>=1.26.4
+
+# Image processing
+Pillow>=10.3.0
+opencv-python>=4.10.0.84
+
+# Data & analysis
+pandas>=2.2.2
+scikit-learn>=1.5.0
+
+# Visualisation
+matplotlib>=3.9.0
+seaborn>=0.13.2
+
+# Web app
+streamlit>=1.35.0
+
+# Notebook
+jupyter>=1.0.0
+ipykernel>=6.29.5
+
+# Utilities
+tqdm>=4.66.4
+huggingface-hub>=0.23.4
+kaggle>=1.6.17

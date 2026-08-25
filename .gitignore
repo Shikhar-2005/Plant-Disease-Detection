@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter checkpoints only (keep notebooks themselves)
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Dataset (too large for git, ~3.5 GB)
+data/
+
+# Trained model weights (too large ~100 MB — download from Drive after training)
+models/*.pth
+models/*.pt
+models/*.bin
+# DO track class_names.json (small file, needed by the app)
+!models/class_names.json
+
+# figures/ is NOT ignored — EDA plots are tracked for the report
+
+# Kaggle credentials — NEVER push these
+kaggle.json
+access_token
+.kaggle/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Zip files (downloaded dataset archive)
+*.zip
