@@ -67,13 +67,20 @@ RandomResizedCrop · RandomHorizontalFlip · RandomVerticalFlip · ColorJitter �
 
 ## 📊 Results
 
-> *(Filled after training completes)*
-
 | Metric | Value |
 |---|---|
-| Test Accuracy | — |
-| Val Accuracy (best) | — |
-| Training Epochs | — |
+| **Test Accuracy** | **99.73%** |
+| **Macro F1-Score** | **0.997** |
+| **Macro Precision** | **0.997** |
+| **Macro Recall** | **0.997** |
+| Test images | 8,777 |
+| Perfect classes (F1 = 1.0) | 24 / 38 |
+| Training hardware | Google Colab T4 GPU |
+
+**Lowest performing classes** (still >96%):
+- Corn Cercospora Leaf Spot — F1: 0.969
+- Corn Northern Leaf Blight — F1: 0.970
+- Tomato Target Spot — F1: 0.993
 
 ---
 
