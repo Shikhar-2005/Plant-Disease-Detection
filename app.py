@@ -394,6 +394,6 @@ st.markdown("""
 <div class="footer">
     Built with PyTorch · ResNet50 · Grad-CAM · Streamlit &nbsp;|&nbsp;
     Dataset: PlantVillage (87K images, 38 classes) &nbsp;|&nbsp;
-    <a href="https://github.com" style="color:#00d4aa; text-decoration:none;">GitHub</a>
+    <a href="https://github.com/Shikhar-2005/Plant-Disease-Detection" style="color:#00d4aa; text-decoration:none;">GitHub</a>
 </div>
 """, unsafe_allow_html=True)
